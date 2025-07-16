@@ -1,14 +1,62 @@
 [
   {
-    "title": "Lakhan ahir",
-    "caption": "Lakhan ahie",
+    "title": "Lakhan Ahir",
+    "caption": "Lakhan Ahir: The Rise",
     "poster": "https://github.com/Lakhanahir9499/Test/raw/main/Screenshot_2025_0615_114949.png",
-    "downloadLink": "Google.com"
+    "downloadLink": "https://google.com"
   },
   {
     "title": "Test",
-    "caption": "Test ",
-    "poster": "Test",
-    "downloadLink": "Test"
+    "caption": "Test Movie",
+    "poster": "https://via.placeholder.com/300x450.png?text=Test+Poster",
+    "downloadLink": "https://example.com/download/test"
+  },
+  {
+    "title": "Inception",
+    "caption": "Your mind is the scene of the crime.",
+    "poster": "https://m.media-amazon.com/images/I/51s+2oJ2T9L._AC_.jpg",
+    "downloadLink": "https://example.com/download/inception"
+  },
+  {
+    "title": "Interstellar",
+    "caption": "Mankind was born on Earth. It was never meant to die here.",
+    "poster": "https://m.media-amazon.com/images/I/91kFYg4fX3L._AC_SL1500_.jpg",
+    "downloadLink": "https://example.com/download/interstellar"
+  },
+  {
+    "title": "The Dark Knight",
+    "caption": "Why so serious?",
+    "poster": "https://m.media-amazon.com/images/I/51qMH97DxaL._AC_.jpg",
+    "downloadLink": "https://example.com/download/dark-knight"
+  },
+  {
+    "title": "Avatar: The Way of Water",
+    "caption": "Return to Pandora.",
+    "poster": "https://m.media-amazon.com/images/I/81KX8qoQW-L._AC_SY679_.jpg",
+    "downloadLink": "https://example.com/download/avatar-2"
+  },
+  {
+    "title": "KGF: Chapter 2",
+    "caption": "The monster is back.",
+    "poster": "https://m.media-amazon.com/images/I/71Y6EpG6EDL._AC_SY679_.jpg",
+    "downloadLink": "https://example.com/download/kgf2"
+  },
+  {
+    "title": "Pathaan",
+    "caption": "A soldier. A spy. A patriot.",
+    "poster": "https://m.media-amazon.com/images/I/71YWyE3KhtL._AC_SY679_.jpg",
+    "downloadLink": "https://example.com/download/pathaan"
+  },
+  {
+    "title": "Pushpa: The Rise",
+    "caption": "Thaggedhe Le!",
+    "poster": "https://m.media-amazon.com/images/I/81r+LN6suzL._AC_SY679_.jpg",
+    "downloadLink": "https://example.com/download/pushpa"
+  },
+  {
+    "title": "Jawan",
+    "caption": "He came for justice.",
+    "poster": "https://m.media-amazon.com/images/I/81d2aTQ5u8L._AC_SY679_.jpg",
+    "downloadLink": "https://example.com/download/jawan"
   }
 ]
