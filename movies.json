@@ -1,1 +1,15 @@
 
+[
+  {
+    "title": "Sample Movie 1",
+    "caption": "This is a sample movie description. Replace this with actual movie data.",
+    "poster": "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
+    "downloadLink": "https://example.com/download/movie1"
+  },
+  {
+    "title": "Sample Movie 2",
+    "caption": "Another sample movie with a longer description to show how the layout handles different text lengths.",
+    "poster": "https://via.placeholder.com/300x450/2a2a2a/ffffff?text=Movie+Poster+2",
+    "downloadLink": "https://example.com/download/movie2"
+  }
+]
