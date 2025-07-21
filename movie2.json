@@ -1,63 +1,82 @@
-{
-  "movies": [
-    {
-      "title": "uyuuy",
-      "name": "9876y9",
-      "description": "uiyy8y\n",
-      "poster": "https://modverse.online/movies",
-      "trailer": "",
-      "downloadUrl": "",
-      "rating": 8,
-      "year": 2025,
-      "duration": "",
-      "genre": [],
-      "language": "Hindi",
-      "quality": "HD",
-      "size": "",
-      "featured": false,
-      "isNew": true,
-      "id": "1753115409751"
-    },
-    {
-      "title": "iuyaa",
-      "name": "apuopoia",
-      "description": "ap[o[a",
-      "poster": "https://modverse.online/movies",
-      "trailer": "https://modverse.online/movies",
-      "downloadUrl": "https://modverse.online/movies",
-      "rating": 8,
-      "year": 2025,
-      "duration": "2h",
-      "genre": [
-        "dss"
-      ],
-      "language": "Hindi",
-      "quality": "HD",
-      "size": "205gb",
-      "featured": true,
-      "isNew": true,
-      "id": "1753115472631"
-    },
-    {
-      "title": "test",
-      "name": "test",
-      "description": "uygiuguyg",
-      "poster": "https://raw.githubusercontent.com/lakhanahir9499/movie/main/posters/poster_1753116491052.jpg",
-      "trailer": "https://modverse.online/movies",
-      "downloadUrl": "https://modverse.online/movies",
-      "rating": 8,
-      "year": 2025,
-      "duration": "2h",
-      "genre": [
-        "drama"
-      ],
-      "language": "Hindi",
-      "quality": "1080p HD",
-      "size": "100gb",
-      "featured": true,
-      "isNew": true,
-      "views": 0,
-      "id": "movie-1753116546391"
-    }
-  ]
-}
+[
+  {
+    "title": "saiyaara full movie",
+    "name": "saiyaara 2025",
+    "description": "sytfiwfwhf jhfeoiueog gekife ggfdhikhgr rh\n\nhrkljrhtrrt\nrhtyh",
+    "poster": "https://raw.githubusercontent.com/lakhanahir9499/movie/main/posters/untitled_1753118541536.jpg",
+    "trailer": "https://modverse.online/movies",
+    "downloadUrl": "https://modverse.online/movies",
+    "rating": 8,
+    "year": 2025,
+    "duration": "2h",
+    "genre": [],
+    "language": "Hindi",
+    "quality": "1080p HD",
+    "size": "2.5gb",
+    "featured": false,
+    "isNew": false,
+    "views": 0,
+    "id": "movie-1753118616368",
+    "createdAt": "2025-07-21T17:23:36.810Z",
+    "updatedAt": "2025-07-21T17:23:36.810Z"
+  },
+  {
+    "title": "uyuuy",
+    "name": "9876y9",
+    "description": "uiyy8y\n",
+    "poster": "https://modverse.online/movies",
+    "trailer": "",
+    "downloadUrl": "",
+    "rating": 8,
+    "year": 2025,
+    "duration": "",
+    "genre": [],
+    "language": "Hindi",
+    "quality": "HD",
+    "size": "",
+    "featured": false,
+    "isNew": true,
+    "id": "1753115409751"
+  },
+  {
+    "title": "iuyaa",
+    "name": "apuopoia",
+    "description": "ap[o[a",
+    "poster": "https://modverse.online/movies",
+    "trailer": "https://modverse.online/movies",
+    "downloadUrl": "https://modverse.online/movies",
+    "rating": 8,
+    "year": 2025,
+    "duration": "2h",
+    "genre": [
+      "dss"
+    ],
+    "language": "Hindi",
+    "quality": "HD",
+    "size": "205gb",
+    "featured": true,
+    "isNew": true,
+    "id": "1753115472631"
+  },
+  {
+    "title": "test",
+    "name": "test",
+    "description": "uygiuguyg",
+    "poster": "https://raw.githubusercontent.com/lakhanahir9499/movie/main/posters/poster_1753116491052.jpg",
+    "trailer": "https://modverse.online/movies",
+    "downloadUrl": "https://modverse.online/movies",
+    "rating": 8,
+    "year": 2025,
+    "duration": "2h",
+    "genre": [
+      "drama"
+    ],
+    "language": "Hindi",
+    "quality": "1080p HD",
+    "size": "100gb",
+    "featured": true,
+    "isNew": true,
+    "views": 0,
+    "id": "movie-1753116546391"
+  }
+]
