@@ -37,6 +37,27 @@
       "featured": true,
       "isNew": true,
       "id": "1753115472631"
+    },
+    {
+      "title": "test",
+      "name": "test",
+      "description": "uygiuguyg",
+      "poster": "https://raw.githubusercontent.com/lakhanahir9499/movie/main/posters/poster_1753116491052.jpg",
+      "trailer": "https://modverse.online/movies",
+      "downloadUrl": "https://modverse.online/movies",
+      "rating": 8,
+      "year": 2025,
+      "duration": "2h",
+      "genre": [
+        "aah"
+      ],
+      "language": "Hindi",
+      "quality": "1080p HD",
+      "size": "100gb",
+      "featured": true,
+      "isNew": true,
+      "views": 0,
+      "id": "movie-1753116546391"
     }
   ]
 }
