@@ -17,6 +17,26 @@
       "featured": false,
       "isNew": true,
       "id": "1753115409751"
+    },
+    {
+      "title": "iuyaa",
+      "name": "apuopoia",
+      "description": "ap[o[a",
+      "poster": "https://modverse.online/movies",
+      "trailer": "https://modverse.online/movies",
+      "downloadUrl": "https://modverse.online/movies",
+      "rating": 8,
+      "year": 2025,
+      "duration": "2h",
+      "genre": [
+        "dss"
+      ],
+      "language": "Hindi",
+      "quality": "HD",
+      "size": "205gb",
+      "featured": true,
+      "isNew": true,
+      "id": "1753115472631"
     }
   ]
 }
