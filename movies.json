@@ -10,11 +10,5 @@
     "caption": "This is a test product ",
     "poster": "This is a test product ",
     "downloadLink": "This is a test product "
-  },
-  {
-    "title": "Inception",
-    "caption": "Your mind is the scene of the crime.",
-    "poster": "https://m.media-amazon.com/images/I/51s+2oJ2T9L._AC_.jpg",
-    "downloadLink": "https://example.com/download/inception"
   }
 ]
