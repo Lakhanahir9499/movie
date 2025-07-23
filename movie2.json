@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "saiyaara",
+    "title": "saiyaara",
+    "description": "ciuyfywiuyf fjugeifu euyfeiuof vuyfiuy",
+    "category": "movies",
+    "image": "",
+    "downloadUrl": "https://modverse.online/movies",
+    "trailerUrl": "https://modverse.online/movies",
+    "rating": 7.5,
+    "year": 2025,
+    "duration": "2h 0m",
+    "genre": [],
+    "language": "Hindi",
+    "quality": "1080p",
+    "size": "2.5 GB",
+    "featured": false,
+    "new": true,
+    "views": 0
+  }
+]
