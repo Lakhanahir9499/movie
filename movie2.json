@@ -1,27 +1,5 @@
 [
   {
-    "id": "3pm",
-    "title": "3pm",
-    "description": "3pm shhss",
-    "category": "movies",
-    "image": "https://raw.githubusercontent.com/lakhanahir9499/movie/main/posters/3pm.jpg",
-    "downloadUrl": "https://v0-modversev0main.vercel.app/movies",
-    "trailerUrl": "https://v0-modversev0main.vercel.app/movies",
-    "rating": 7.5,
-    "year": 2025,
-    "duration": "2h 0m",
-    "genre": [
-      "Test"
-    ],
-    "language": "English",
-    "quality": "1080p",
-    "size": "2.5 GB",
-    "featured": false,
-    "new": true,
-    "views": 0,
-    "dateAdded": "2025-07-23T09:20:59.365Z"
-  },
-  {
     "id": "test",
     "title": "Test",
     "description": "TEST movie hai ",
