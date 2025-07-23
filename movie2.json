@@ -1,25 +1,5 @@
 [
   {
-    "id": "22222",
-    "title": "22222",
-    "description": "2233",
-    "category": "movies",
-    "image": "https://raw.githubusercontent.com/lakhanahir9499/movie/main/posters/22222.jpg",
-    "downloadUrl": "https://modverse.online/movies",
-    "trailerUrl": "https://modverse.online/movies",
-    "rating": 7.5,
-    "year": 2025,
-    "duration": "2h 0m",
-    "genre": [],
-    "language": "English",
-    "quality": "1080p",
-    "size": "2.5 GB",
-    "featured": false,
-    "new": true,
-    "views": 0,
-    "dateAdded": "2025-07-23T07:17:24.815Z"
-  },
-  {
     "id": "r43r4",
     "title": "r43r4",
     "description": "4r324r34",
