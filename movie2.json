@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "tetggte",
+    "title": "tetggte",
+    "description": "tgergtehe",
+    "category": "movies",
+    "image": "https://raw.githubusercontent.com/lakhanahir9499/movie/main/posters/tetggte.jpg",
+    "downloadUrl": "https://modverse.online/movies",
+    "trailerUrl": "https://modverse.online/movies",
+    "rating": 7.5,
+    "year": 2025,
+    "duration": "2h 0m",
+    "genre": [],
+    "language": "English",
+    "quality": "1080p",
+    "size": "2.5 GB",
+    "featured": false,
+    "new": true,
+    "views": 0,
+    "dateAdded": "2025-07-23T07:12:06.471Z"
+  }
+]
