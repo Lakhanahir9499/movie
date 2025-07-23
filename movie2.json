@@ -1,27 +1,5 @@
 [
   {
-    "id": "test",
-    "title": "Test",
-    "description": "TEST movie hai ",
-    "category": "movies",
-    "image": "https://raw.githubusercontent.com/lakhanahir9499/movie/main/posters/test.jpg",
-    "downloadUrl": "https://v0-modversev0main.vercel.app/movies",
-    "trailerUrl": "https://v0-modversev0main.vercel.app/movies",
-    "rating": 7.5,
-    "year": 2025,
-    "duration": "2h 0m",
-    "genre": [
-      "Drama"
-    ],
-    "language": "English",
-    "quality": "1080p",
-    "size": "2.5 GB",
-    "featured": true,
-    "new": true,
-    "views": 0,
-    "dateAdded": "2025-07-23T07:41:17.568Z"
-  },
-  {
     "id": "666",
     "title": "666",
     "description": "666",
