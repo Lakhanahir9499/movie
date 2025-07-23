@@ -4,13 +4,15 @@
     "title": "saiyaara",
     "description": "egd wshg dhud whgwdg eggd",
     "category": "movies",
-    "image": "/posters/saiyaara.jpg",
+    "image": "https://raw.githubusercontent.com/lakhanahir9499/movie/main/posters/saiyaara.jpg",
     "downloadUrl": "https://modverse.online/movies",
     "trailerUrl": "https://modverse.online/movies",
     "rating": 7.5,
     "year": 2025,
     "duration": "2h 0m",
-    "genre": [],
+    "genre": [
+      "love"
+    ],
     "language": "Hindi",
     "quality": "1080p",
     "size": "2.5 GB",
